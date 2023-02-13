@@ -8,5 +8,10 @@
 "iconHero": "ichGus",
 "iconTier": "ictGus",
 "iconExpLane": "icxlGus",
+},
+{
+"iconHero": "ichWar",
+"iconTier": "ictWar",
+"iconExpLane": "icxlWar"
 }
 ]
